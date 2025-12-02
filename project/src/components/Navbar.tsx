@@ -9,7 +9,6 @@ export default function Navbar() {
   const navLinks = [
     { name: 'Home', href: '#home', current: true },
     { name: 'Services', href: '#services', badge: 'Popular' },
-    { name: 'Case Studies', href: '#casestudies' },
     { name: 'About', href: '#about' },
     { name: 'Contact', href: '#contact' },
   ];
